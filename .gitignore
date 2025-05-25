@@ -1,0 +1,5 @@
+.idea
+wsmonitoring
+.DS_Store
+*.code-workspace
+*.iml
